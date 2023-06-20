@@ -1,0 +1,110 @@
+.container-text-projects{
+    overflow: auto;
+    height: 100%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    width: 85%;
+}
+
+.project-developed{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.7rem;
+    margin-top: 1rem;
+}
+
+.project-container-general{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    gap: 2rem;
+}
+
+.project-title{
+    color: #64ffda;
+    font-size: 1.5rem;
+    width: 100%;
+}
+
+.project-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.8rem;
+}
+
+.title-project{
+    font-size: 1.3rem;
+    color: #94A3B8;
+}
+
+.technologies-project{
+    display: grid;
+    grid-template-columns: repeat(4, 80px);
+    width: 100%;
+    gap: 2px;
+}
+
+.technologies-project>.technology-used-project{
+    font-size: 0.7rem;
+    color: #64ffda;
+    font-weight: 100;
+    text-align: center;
+    background-color: #1e4a6f;
+    border-radius: 10px;
+}
+
+.description-project{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.description-project>p{
+    font-size: 0.95rem;
+    text-align: start;
+    color: #94A3B8;
+}
+
+.link-repository{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #1e4a6f;
+    padding: 0.6rem;
+    width: max-content;
+    margin: auto;
+    gap: 0.6rem;
+    border-radius: 2rem;
+}
+
+.link-repository>h5{
+    font-size: 0.6rem;
+    color: #94A3B8;
+    letter-spacing: 0.1rem;
+}
+
+.icon-github-repo{
+    color: #94A3B8;
+    font-size: 1.3rem;
+}
+
+.link-repository:hover{
+    background-color: #94A3B8;
+    transform: scale(0.95);
+    cursor: pointer;
+}
+
+.link-repository:hover h5,
+.link-repository:hover .icon-github-repo {
+    color: #1e4a6f;
+}

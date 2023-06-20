@@ -1,0 +1,58 @@
+{
+    "header": {
+        "title": "Portfolio OliverLFJ",
+        "language": "Language",
+        "spanish": "Spanish",
+        "english": "English",
+        "home": "Home",
+        "about": "About",
+        "project": "Projects",
+        "contact": "Contact"
+    },
+    "home": {
+        "greeting": "Hello! I am Oliver",
+        "initialGreeting": "I'm a front end programmer from Mexico, exactly from a place called Cuernavaca, Morelos.",
+        "informationHome": "I'm a software developer with a taste for front end development, although I also have to say that full stack development really catches my attention.",
+        "knowMore": "Know me more"
+    },
+    "about": {
+        "history": "When I was 13 years old my parents bought me my first computer, I remember that one day while watching videos on Youtube a video caught my attention; create your own application with HTML and CSS, I remember that I did not understand anything about what the video said, I remember that I only watched a few minutes and decided to close the video for demotivation. It wasn't until high school where I learned a little bit of programming and started to get into the world of coding. Undoubtedly front end programming managed to capture my attention and I focused my efforts on understanding technologies, currently React JS is one of the front end technologies that I am using more and to which I have dedicated more time.",
+        "experience": "Experience",
+        "aboutMe": "About me",
+        "gftPosition": "Front End Developer",
+        "gftDate": "august 2022 - january 2023",
+        "gftResume": "• Bug fixing of the web application by means of support feedback list.\n• Continuous training on its framework (Cells and Lit Element) based on web components.\n• Use of the best front end development rules through its documentation.\n• Training on common information filtering issues and banking vulnerabilities.\n• The project was based on agile SCRUM methodology.",
+        "indraPosition": "Front End Developer",
+        "indraDate": "november 2021 - may 2022",
+        "indraResume": "• Creation of components for the mobile application of BBVA bank.\n• Solution and correction of bugs and continuous improvement through constant feedback.\n• Continuous training on its framework (Cells and Lit Element) based on web components.\n• Use of the best front end development rules through its documentation.\n• The project was based on agile SCRUM methodology.",
+        "linnPosition": "Full Stack Developer",
+        "linnDate": "july 2021 - october 2021",
+        "linnResume": "• Support the systems support section of the payment of services.\n• Support to implement new functionalities to the system both web and Android application.\n• Update obsolete designs of the web platform with HTML5, GSP, Bootstrap, SASS, Responsive Design.\n• Support in backend through Groovy programming language in conjunction with the Grails framework.",
+        "jorgePosition": "Freelance Front End Developer",
+        "jorgeDate": "june 2021 - july 2021",
+        "jorgeResume": "• Redesign web page.\n• Display new web layout with Figma.\n• Create backups of web page in the contracted server.\n• Set up new website on server.\n• Code new website from new design with HTML5,CSS and responsive Design.",
+        "socialPosition": "WEB Designer",
+        "socialDate": "january 2021 - june 2021",
+        "socialResume": "• Create visual web designs by means of Adobe packages (Photoshop and Illustrator).\n• Interactive web layout with Figma.",
+        "isstePosition": "Full Stack Developer",
+        "issteDate": "may 2020 - november 2020",
+        "issteResume": "• To support the development of the ERD diagram and subsequently the development of the MySQL database using MySQL Workbench.\n• Develop web platform using HTML5, CSS, Bootstrap, Responsive Design, JQuery and under the SCRUM methodology.\n• Support back-end development by means of PHP programming language and its framework Symfony, we developed the necessary functionalities for the web system.",
+        "download": "Download Complete CV"
+    },
+    "projects": {
+        "project": "Projects",
+        "repository": "Repository",
+        "repositoryCrudGrails": "Crud created with grails and groovy, CRUD has the option to register doctors, hospitals and appointments, GORM persistence was used and validation added to avoid registering appointments at certain times and when a doctor already has an appointment assigned.",
+        "repositoryCartoonTitle": "CSS Cartoon",
+        "repositoryCartoon": "The cartoon used in my portfolio was created only with CSS, JavaScript and HTML, only HTML tags were used to create the drawing, from there pseudoclases were used to create shadows and some hair sections.",
+        "repositorySpring": "CRUD created with Spring Boot, the crud is similar to the hospital CRUD only as a difference JPA persistence was used and as a database manager used by MySQL Workbench.",
+        "repositoryPokedex": "Pokedex application made with React JS and the public API PokeApi, CSS and JSX were used to create the application components, to display a DEMO GitHub Pages was used to mount on a server.",
+        "repositoryPythonFileTitle": "Python Information Encryption",
+        "repositoryPythonFile":"Script made with Python to encrypt text file information, the user has the option to upload PDF files, DOC or documents containing text for receive an exact copy of the file only that with the encrypted information, the script can also decrypt the information by a password.",
+        "repositoryChatPythonTitle": "Encrypted Python Chat",
+        "repositoryChatPython":"Real-time chat done with Python, the chat encrypts the message at the time of receiving it, also has the option to decrypt the message by means of a password and has options to connect to a port and start a chat from the client."
+    },
+    "footer": {
+        "credits": "Designed and programmed by OliverLFJ"
+    }
+}

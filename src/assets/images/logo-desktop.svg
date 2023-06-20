@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 693.95 289.77">
+  <defs>
+    <linearGradient id="linear-gradient" x1="108.52" y1="181.27" x2="38.9" y2="113.98" gradientTransform="translate(-92.42 101.3) rotate(-43.73) scale(1.02) skewX(2.54)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#89d0c2"/>
+      <stop offset="1" stop-color="#1172ba"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="25.13" y1="148.25" x2="123.38" y2="148.25" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="57.47" y1="88.39" x2="144.38" y2=".87" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="0" y1="78.78" x2="124.34" y2="78.78" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="542.92" y1="422.2" x2="473.3" y2="354.91" gradientTransform="translate(-492.76 218.3) rotate(-43.73) scale(1.02) skewX(2.54)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="459.53" y1="389.19" x2="557.78" y2="389.19" gradientTransform="translate(-492.76 218.3) rotate(-43.73) scale(1.02) skewX(2.54)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="507.18" y1="344.63" x2="594.1" y2="257.12" gradientTransform="translate(707.82 543.69) rotate(-180)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="449.71" y1="335.03" x2="574.05" y2="335.03" gradientTransform="translate(707.82 543.69) rotate(-180)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-9" x1="64.97" y1="144.92" x2="193.44" y2="144.92" gradientTransform="translate(-37.8 45.91) rotate(-17.62)" xlink:href="#linear-gradient"/>
+  </defs>
+  <g>
+    <path d="m282.52,144.97c0-31,24.53-54.78,54.78-54.78s54.77,23.78,54.77,54.78-24.53,54.77-54.77,54.77-54.78-23.78-54.78-54.77Zm85.47,0c0-18.82-13.54-31.3-30.69-31.3s-30.7,12.48-30.7,31.3,13.55,31.29,30.7,31.29,30.69-12.48,30.69-31.29Z" style="fill: #fff;"/>
+    <path d="m404.92,87.79h22.58v109.84h-22.58v-109.84Z" style="fill: #fff;"/>
+    <path d="m441.81,102.24c0-7.38,6.17-13.55,13.55-13.55s13.54,6.17,13.54,13.55-6.17,13.54-13.54,13.54-13.55-6.17-13.55-13.54Zm2.25,20.15h22.58v75.24h-22.58v-75.24Z" style="fill: #fff;"/>
+    <path d="m556.19,122.39l-27.84,75.24h-25.58l-27.84-75.24h24.98l15.65,47.71,15.65-47.71h24.98Z" style="fill: #fff;"/>
+    <path d="m599.71,179.57c6.16,0,11.43-2.4,14.44-5.71l18.06,10.38c-7.38,10.23-18.51,15.5-32.81,15.5-25.73,0-41.68-17.3-41.68-39.72s16.26-39.73,40.03-39.73c21.97,0,38.23,17.01,38.23,39.73,0,3.16-.31,6.16-.91,9.03h-53.42c2.87,7.82,9.78,10.52,18.06,10.52Zm13.84-27.38c-2.41-8.72-9.18-11.88-15.95-11.88-8.58,0-14.3,4.21-16.41,11.88h32.36Z" style="fill: #fff;"/>
+    <path d="m693.95,120.9v25.57c-9.34-1.49-22.57,2.27-22.57,17.15v34.01h-22.58v-75.24h22.58v13.39c3-10.07,13.09-14.89,22.57-14.89Z" style="fill: #fff;"/>
+  </g>
+  <g>
+    <g>
+      <path d="m26.4,128.82h81.64c13.69,0,24.81,11.12,24.81,24.81h0c0,13.69-11.12,24.81-24.81,24.81H26.4v-49.62h0Z" transform="translate(131.96 -11.31) rotate(45)" style="fill: url(#linear-gradient); stroke: url(#linear-gradient-2); stroke-miterlimit: 10;"/>
+      <path d="m116.61,7.73c-9.64-9.64-25.26-9.64-34.89,0L7.73,81.72c-9.64,9.64-9.64,25.26,0,34.89l17.45,17.45,21.73,21.73s-10.2-33.26,13.46-56.92l5.61-5.61,50.64-50.64c9.64-9.64,9.64-25.26,0-34.89Z" style="fill: url(#linear-gradient-3); stroke: url(#linear-gradient-4); stroke-miterlimit: 10;"/>
+    </g>
+    <g>
+      <path d="m125.25,109.01h81.64c13.69,0,24.81,11.12,24.81,24.81h0c0,13.69-11.12,24.81-24.81,24.81h-81.64v-49.62h0Z" transform="translate(210.06 354.65) rotate(-135)" style="fill: url(#linear-gradient-5); stroke: url(#linear-gradient-6); stroke-miterlimit: 10;"/>
+      <path d="m141.49,279.72c9.64,9.64,25.26,9.64,34.89,0l73.99-73.99c9.64-9.64,9.64-25.26,0-34.89l-17.45-17.45-21.73-21.73s10.2,33.26-13.46,56.92l-5.61,5.61-50.64,50.64c-9.64,9.64-9.64,25.26,0,34.89Z" style="fill: url(#linear-gradient-7); stroke: url(#linear-gradient-8); stroke-miterlimit: 10;"/>
+    </g>
+    <rect x="103.5" y="-4.75" width="51.41" height="299.33" rx="25.7" ry="25.7" transform="translate(49.93 -32.31) rotate(17.62)" style="fill: #fff; stroke: url(#linear-gradient-9); stroke-miterlimit: 10; stroke-width: 2px;"/>
+  </g>
+</svg>

@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Cunia';
+    src: url('../assets/fonts/Cunia.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Gilroy-Light';
+    src: url('../assets/fonts/Gilroy-Light.otf') format('truetype');
+}
+
+:root {
+    --fuente: 'Roboto', sans-serif;
+}
+
+html * {
+    box-sizing: border-box;
+    font-family: var(--fuente);
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-wrap: break-word;
+    font-size: calc(4vw + 4vh + 2vmin);
+    box-sizing: border-box;
+    background-color: #0B192F;
+}
+
+.app-container {
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-areas: "header header" "main main" "footer footer";
+    grid-template-rows: 4.4rem 1fr 6rem;
+    box-sizing: border-box;
+    overflow: auto;
+}
+
+
+@media (max-width: 480px) {}
+
+@media (max-width: 767px) {}
+
+@media (min-width: 768px) and (max-width: 1023px) {}
+
+@media (min-width: 1024px) and (max-width: 1279px) {}
+
+@media (min-width: 1280px) {}

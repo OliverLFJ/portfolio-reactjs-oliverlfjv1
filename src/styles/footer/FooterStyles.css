@@ -1,0 +1,44 @@
+.footer {
+    grid-area: footer;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons-footer {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.icons-footer-container {
+    width: 90%;
+    height: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}
+
+.icons-footer-container>.icon-footer {
+    color: #94A3B8;
+    font-size: 0.6em;
+}
+
+.icons-footer-container>.icon-footer:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    color: #64ffda;
+}
+
+.credits-footer>h5 {
+    font-size: 0.7rem;
+    color: #94A3B8;
+    font-weight: 100;
+    letter-spacing: 0.3em;
+}

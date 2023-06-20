@@ -1,0 +1,58 @@
+{
+    "header": {
+        "title": "Portafolio OliverLFJ",
+        "language": "Idioma",
+        "spanish": "Español",
+        "english": "Inglés",
+        "home": "Inicio",
+        "about": "Acerca de",
+        "project": "Proyectos",
+        "contact": "Contacto"
+    },
+    "home": {
+        "greeting": "¡Hola! Soy Oliver",
+        "initialGreeting": "Soy un programador front end de México, exactamente de un lugar llamado Cuernavaca, Morelos.",
+        "informationHome": "Soy un desarrollador de Software con un gusto por el desarrollo front end, aunque también he de decir que el desarrollo full stack me llama mucho la atención.",
+        "knowMore": "Cónoceme más"
+    },
+    "about": {
+        "history": "Cuando tenía 13 años mis padres me compraron mi primera computadora, recuerdo que un día mientras veía videos en Youtube un video llamó mi atención; crear tu propia aplicación con HTML y CSS, recuerdo que no entendia nada sobre lo que decía el video, recuerdo que solo vi unos minutos y decidí cerrar el video por desmotivación. No fue hasta la preparatoria donde aprendí un poco de programación y comencé a adentrarme en el mundo de la codificación. Sin duda alguna la programación front end logro captar mucho mi atención y enfoqué mi esfuerzo en poder comprender tecnologías, actualmente React JS es una de las tecnologías front end que estoy utilizando más y a la que más tiempo he dedicado.",
+        "experience": "Experiencia",
+        "aboutMe": "Acerca de mí",
+        "gftPosition": "Desarrollador Front End",
+        "gftDate": "agosto 2022 - enero 2023",
+        "gftResume": "• Solución a bugs de la aplicación web por medio de listado de feedback de soporte.\n• Capacitación continua sobre su framework (Cells y Lit Element) basado en componentes web.\n• Uso de las mejores reglas de desarrollo front end por medio de su documentación.\n• Capacitación sobre problemas comunes del filtrado de información y vulnerabilidades bancarias.\n• El proyecto se basó sobre metodología ágil SCRUM.",
+        "indraPosition": "Desarrollador Front End",
+        "indraDate": "noviembre 2021 - mayo 2022",
+        "indraResume": "• Creación de componentes para la aplicación móvil del banco BBVA.\n• Solución y corrección de bugs y mejora continua por medio de feedback constante.\n• Capacitación continua sobre su framework (Cells y Lit Element) basado en componentes web.\n• Uso de las mejores reglas de desarrollo front end por medio de su documentación.\n• El proyecto se basó sobre metodología ágil SCRUM.",
+        "linnPosition": "Desarrollador Full Stack",
+        "linnDate": "julio 2021 - octubre 2021",
+        "linnResume": "• Apoyar al apartado de soporte de sistemas del pago de servicios.\n• Apoyar a implementar nuevas funcionalidades al sistema tanto web y aplicación Android.\n• Actualizar diseños obsoletos de la plataforma WEB con HTML5, GSP, Bootstrap, SASS, Responsive Design.\n• Apoyar en solucionar bugs encontrados y darle mantenimiento semanal al sistema.\n• Apoyar en backend por medio de lenguaje de programación Groovy en conjunto del framework Grails.",
+        "jorgePosition": "Desarrollador Freelance Front End",
+        "jorgeDate": "junio 2021 - julio 2021",
+        "jorgeResume": "• Rediseñar página web.\n• Mostrar nueva maquetación web con Figma.\n• Crear respaldos de página web en el servidor contratado.\n• Montar nueva página web en servidor.\n• Codificar página web nueva a partir del diseño nuevo con HTML5, CSS y responsive Design.",
+        "socialPosition": "Diseñador WEB",
+        "socialDate": "enero 2021 - junio 2021",
+        "socialResume": "• Crear diseños web visuales por medio de paquetería Adobe (Photoshop e Illustrator).\n• Maquetación web interactiva con Figma.",
+        "isstePosition": "Desarrollador Full Stack",
+        "issteDate": "mayo 2020 - noviembre 2020",
+        "issteResume": "• Apoyar al desarrollo del diagrama ERD y posteriormente al desarrollo de la base de datos MySQL utilizando MySQL Workbench.\n• Desarrollar plataforma web haciendo uso de HTML5, CSS, Bootstrap, Responsive Design, JQuery y bajo la metodología SCRUM.\n• Apoyar al desarrollo back-end por medio de lenguaje de programación PHP y su framework Symfony, se desarrollaron las funcionalidades necesarias para el sistema web.",
+        "download": "Descargar CV Completo"
+    },
+    "projects": {
+        "project": "Proyectos",
+        "repository": "Repositorio",
+        "repositoryCrudGrails": "Crud creado con grails y groovy, el CRUD cuenta con la opción de registrar doctores, hospitales y citas, se utilizó persistencia GORM y se agregaron validaciones para evitar el registro de citas en ciertos horarios y cuando un doctor ya tenga una cita asignada.",
+        "repositoryCartoonTitle": "Dibujo Animado CSS",
+        "repositoryCartoon": "El dibujo animado utilizado en mi portafolio fue creado solo con CSS, JavaScript y HTML, solamente se utilizaron etiquetas HTML para crear el dibujo, a partir de ahí se utilizaron pseudoclases para crear sombras y algunos apartados del cabello.",
+        "repositorySpring": "CRUD creado con Spring Boot, el crud es parecido al CRUD hospitalario solo como diferencia se utilizó persistencia JPA y como gestor de base de datos de utilizó MySQL Workbench.",
+        "repositoryPokedex": "Aplicación tipo Pokedex realizada con React JS y la API pública PokeApi, se utilizó CSS y JSX para la creación de los componentes de la aplicación, para mostrar un DEMO se utilizó GitHub Pages para montar en un servidor.",
+        "repositoryPythonFileTitle": "Encriptador de Información Python",
+        "repositoryPythonFile": "Script realizado con Python para encriptar información de archivos de texto, el usuario tiene la opción de subir archivos PDF, DOC o documentos que contengan texto para recibir una copia exacta del archivo solamente que con la información encriptada, el script también puede desencriptar la información por medio de una contraseña.",
+        "repositoryChatPythonTitle": "Chat Python Encriptado",
+        "repositoryChatPython":"Chat en tiempo real realizado con Python, el chat encripta el mensaje a la hora de recibirlo, también tiene la opción de desencriptar el mensaje por medio de una contraseña y cuenta con opciones para conectarse a un puerto y comenzar un chat a partir del cliente."
+    },
+    "footer": {
+        "credits": "Diseñado y Programado por OliverLFJ"
+    }
+}

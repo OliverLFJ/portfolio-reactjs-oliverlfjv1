@@ -1,0 +1,57 @@
+.container-contact {
+    overflow: auto;
+    height: 100%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    width: 85%;
+}
+
+.contact-general-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.7rem;
+    margin-top: 1rem;
+}
+
+.title-contact {
+    color: #64ffda;
+    font-size: 2rem;
+    width: 100%;
+    text-align: center;
+}
+
+.contact-description {
+    font-size: 1rem;
+    text-align: center;
+    color: #94A3B8;
+}
+
+.button-contact {
+    border: solid 1px #64ffda;
+    padding: 1rem 2rem;
+    border-radius: 0.2em;
+}
+
+.button-text {
+    font-size: 1.2rem;
+    color: #64ffdb6c;
+}
+
+.button-contact:hover .button-text,
+.button-contact:hover {
+    cursor: pointer;
+    transform: scale(0.95);
+    color: #64ffda;
+}
+
+.heart-contact {
+    color: #64ffda;
+    font-size: 2rem;
+}
