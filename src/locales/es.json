@@ -52,6 +52,11 @@
         "repositoryChatPythonTitle": "Chat Python Encriptado",
         "repositoryChatPython":"Chat en tiempo real realizado con Python, el chat encripta el mensaje a la hora de recibirlo, también tiene la opción de desencriptar el mensaje por medio de una contraseña y cuenta con opciones para conectarse a un puerto y comenzar un chat a partir del cliente."
     },
+    "contact":{
+        "getContact":"PONERSE EN CONTACTO",
+        "moreInfoContact":"Si te interesó mi trabajo, y tienes alguna oportunidad laboral para mí estaré feliz de escuchar la propuesta, espero tu mensaje.",
+        "greetings":"¡Hola!"
+    },
     "footer": {
         "credits": "Diseñado y Programado por OliverLFJ"
     }

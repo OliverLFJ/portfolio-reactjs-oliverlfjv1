@@ -5,6 +5,7 @@ import ModalMobile from "./components/navbar/other/ModalMobile"
 import './styles/GeneralStyles.css'
 import { useEffect, useState } from "react"
 import i18n from "./config/i18n";
+import { BrowserRouter as Router } from 'react-router-dom';
 const App = () => {
 
   const [modalState, setModalState] = useState(false)
@@ -35,10 +36,12 @@ const App = () => {
 
   return (
     <div className="app-container">
-      <Navbar onChildData={setModalStatus} changingValue={setModalOpt} statusOption={optModal} />
-      <ModalMobile onChildDataModal={setModalOpt} onLanguageChange={handleLanguageChange} actualLanguage={language} onChildData={setModalStatus} stateModal={modalState} />
-      <Main />
-      <Footer />
+      <Router>
+        <Navbar onChildData={setModalStatus} changingValue={setModalOpt} statusOption={optModal} />
+        <ModalMobile onChildDataModal={setModalOpt} onLanguageChange={handleLanguageChange} actualLanguage={language} onChildData={setModalStatus} stateModal={modalState} />
+        <Main />
+        <Footer />
+      </Router>
     </div>
   )
 }

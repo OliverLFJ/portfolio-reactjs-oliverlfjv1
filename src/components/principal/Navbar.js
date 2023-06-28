@@ -53,7 +53,7 @@ const Navbar = ({ onChildData, statusOption, changingValue }) => {
         <div className={isSticky ? "header sticky" : "header"}>
             <Link to="/" className="logo-container" onClick={closeModal}>
                 <div className="logo">
-                    <img src={Logo} />
+                    <img src={Logo} alt="Logo OliverLFJ"/>
                 </div>
             </Link>
             <div className="button-menu-container" >

@@ -52,6 +52,11 @@
         "repositoryChatPythonTitle": "Encrypted Python Chat",
         "repositoryChatPython":"Real-time chat done with Python, the chat encrypts the message at the time of receiving it, also has the option to decrypt the message by means of a password and has options to connect to a port and start a chat from the client."
     },
+    "contact":{
+        "getContact":"GET IN TOUCH",
+        "moreInfoContact":"If you are interested in my work, and you have a job opportunity for me, I will be happy to hear the proposal, I await your message.",
+        "greetings":"Hi!"
+    },
     "footer": {
         "credits": "Designed and programmed by OliverLFJ"
     }

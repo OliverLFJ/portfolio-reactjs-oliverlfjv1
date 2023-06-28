@@ -1,7 +1,7 @@
 import '../../../styles/others/ModalMobileStyles.css'
 import { BsGear } from "react-icons/bs";
 import { useTranslation } from 'react-i18next';
-import {Link, useLocation} from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import { BsMoonFill } from "react-icons/bs";
 import { BsFillSunFill } from "react-icons/bs";
 import { useEffect, useState } from 'react';
@@ -46,7 +46,7 @@ const ModalMobile = ({ stateModal, onLanguageChange, onChildData, onChildDataMod
 
     const changeButtonLanguage = () => {
         setTimeout(hideModal, 950);
-        if (actualLanguage == "es") {
+        if (actualLanguage === "es") {
             onLanguageChange("en")
         } else {
             onLanguageChange("es")
@@ -63,6 +63,8 @@ const ModalMobile = ({ stateModal, onLanguageChange, onChildData, onChildDataMod
     }
 
     const handleShowConfigs = () => {
+        console.log("Testing Button")
+        console.log(showConfig)
         if (showConfig === true) {
             setShowConfig(false)
         } else {
@@ -117,7 +119,7 @@ const ModalMobile = ({ stateModal, onLanguageChange, onChildData, onChildDataMod
                         }
                     </div>
                 </div>
-                <div className={showConfig?'config-iconcontainer-active':'config-iconcontainer'} onClick={handleShowConfigs}>
+                <div className={showConfig ? 'config-iconcontainer-active' : 'config-iconcontainer'} onClick={handleShowConfigs}>
                     <BsGear className='icon-language' />
                 </div>
                 <div className={showConfig ? 'change-light-show' : 'change-light'}>
