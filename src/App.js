@@ -28,12 +28,6 @@ const App = () => {
     setOptModal(status);
   }
 
-  useEffect(() => {
-    return () => {
-      document.body.style.overflow = 'auto';
-    };
-  }, []);
-
   return (
     <div className="app-container">
       <Router>
