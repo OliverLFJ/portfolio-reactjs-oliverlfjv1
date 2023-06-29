@@ -8,8 +8,27 @@ const KnowMore = () => {
     return (
         <div className='container-knowme'>
             <div className='knowme-info'>
-                <h3 className='project-title'>{t('knowme.titleKnow')}</h3>
-                <img className='myPicture' alt='My picture' src={Picture} />
+                <h3 className='know-title'>{t('knowme.titleKnow')}</h3>
+                <div className='profile-container'>
+                    <img className='myPicture' alt='My picture' src={Picture} />
+                </div>
+                <div className='personal-information'>
+                    <p className='text-personal-info'>
+                        {t('knowme.paragraph1')}
+                    </p>
+                    <p className='text-personal-info'>
+                        {t('knowme.paragraph2')}
+                    </p>
+                    <p className='text-personal-info'>
+                        {t('knowme.paragraph3')}
+                    </p>
+                    <p className='text-personal-info'>
+                        {t('knowme.paragraph4')}
+                    </p>
+                    <p className='text-personal-info'>
+                        {t('knowme.paragraph5')}
+                    </p>
+                </div>
             </div>
         </div>
     )

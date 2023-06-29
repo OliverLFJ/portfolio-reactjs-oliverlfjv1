@@ -5,7 +5,7 @@
         "spanish": "Spanish",
         "english": "English",
         "home": "Home",
-        "about": "About",
+        "about": "About (CV)",
         "project": "Projects",
         "contact": "Contact"
     },
@@ -58,7 +58,12 @@
         "greetings": "Hi!"
     },
     "knowme": {
-        "titleKnow": "My name is Jorge Oliver"
+        "titleKnow": "My name is Jorge Oliver",
+        "paragraph1":"I'm Oliver, I'm a 25-year-old boy from Mexico, exactly from the state of Cuernavaca Morelos, I studied programming at the Emiliano Zapata Technological University, I remember that my dream was to study Mechatronics Engineering.",
+        "paragraph2":"For reasons that I don't know, I couldn't be accepted in that engineering field, so the following year I tried to take my exam again. I remember that I was undecided about what to choose because I felt that if I tried mechatronics again, I could have the same result, then I remembered that in high school I got They taught web development, at the time I loved development too much, so I decided to give Systems Engineering a try.",
+        "paragraph3":"My working life began when the ISSSTE Hospital gave me the opportunity to carry out my professional practices developing a course registration system, given the little time they gave us (4 months), we could not completely finish the system but, the hospital was aware Therefore, they hired us as project programmers and we managed to finish the system correctly, this helped us a lot because they gave us recognition because the system was a complete success, currently the system is still in use without the need for our maintenance, because the system It has a section for updating logos, images, banners and diploma information.",
+        "paragraph4":"During my work experience I had bad personal experiences with some of the companies that trusted me, the truth is I was very new and did not know how to be or how to respond to certain circumstances, but it was not all bad, I had opportunities that in my life I thought I would I would have and I was able to work in companies that were a great growth for me.",
+        "paragraph5":"Leaving aside my work life, I would like to tell you about my tastes, I am not really a person of extreme hobbies or strange tastes, I love to enjoy a quiet time listening to music in my room, while I work or have free time, I also have certain I like digital design, I love designing systems too much, both for Android and desktop. ReactJS is currently my main framework, I simply love the way I can develop systems, I have tried to enter companies that ask for ReactJS, but for the same reason that I have never been in a company that has a React project, they do not give me that opportunity that I have been looking for so much, I hope that my portfolio and my personal projects are of some use and I manage to enter a company that trusts me."
     },
     "footer": {
         "credits": "Designed and programmed by OliverLFJ"

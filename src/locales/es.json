@@ -5,7 +5,7 @@
         "spanish": "Español",
         "english": "Inglés",
         "home": "Inicio",
-        "about": "Acerca de",
+        "about": "Acerca de (CV)",
         "project": "Proyectos",
         "contact": "Contacto"
     },
@@ -58,7 +58,12 @@
         "greetings":"¡Hola!"
     },
     "knowme":{
-        "titleKnow":"Me llamo Jorge Oliver"
+        "titleKnow":"Me llamo Jorge Oliver",
+        "paragraph1":"Soy Oliver, soy un chico de 25 años de México, exactamente del estado de Cuernavaca Morelos, estudié programación en la Universidad Tecnológica de Emiliano Zapata, recuerdo que mi sueño era estudiar Ingeniería Mecatrónica.",
+        "paragraph2":"Por razones que desconozco no logré ser aceptado en esa ingeniería así que al año siguiente intenté realizar mi examen nuevamente, recuerdo que estaba indeciso en que elegir pues sentía que si volvía a intentar mecatrónica podría tener el mismo resultado, entonces recordé que en la preparatoria me enseñaron desarrollo web, en su momento me encantó demasiado el desarrollo, entonces decidí darle una oportunidad a Ingeniería en Sistemas.",
+        "paragraph3":"Mi vida laboral comenzó cuando el Hospital ISSSTE me dio la oportunidad de realizar mis prácticas profesionales desarrollando un sistema de registro de cursos, dado el poco tiempo que nos dieron (4 meses), no pudimos terminar por completo el sistema pero, el hospital era consciente de eso así que nos contrató como programadores por proyecto y logramos terminar el sistema correctamente, esto nos ayudó demasiado pues nos dieron un reconocimiento porque el sistema fue un completo éxito, actualmente el sistema aún sigue en uso sin necesidad de tener mantenimiento nuestro pues el sistema cuenta con un apartado de actualización de logos, imágenes, banners e información de los diplomas.",
+        "paragraph4":"Durante mi experiencia laboral tuve malas experiencias personales con algunas de las empresas que confiaron en mi, la verdad yo era muy nuevo y no sabía como ser o como responder a ciertas circunstancias, pero no todo fue malo, tuve oportunidades que en mi vida pensé que tendría y logré laborar en empresas que fueron un gran crecimiento para mí.",
+        "paragraph5":"Dejando de lado mi vida laboral me gustaría contar sobre mis gustos, la verdad no soy una persona de hobbies extremos o gustos extraños, me encanta disfrutar de un rato de calma escuchando música en mi cuarto, mientras laboro o tengo tiempo libre, también tengo cierto gusto por el diseño digital, me encanta demasiado maquetar sistemas, tanto para Android o escritorio. Actualmente ReactJS es mi framework principal, simplemente me encanta la forma en que puedo desarrollar sistemas, he intentado entrar a empresas que piden ReactJS, pero por lo mismo que nunca he estado en una empresa que tenga proyecto React no me dan esa oportunidad que he estado buscando tanto, espero que mi portafolio y mis proyectos personales sirvan de algo y logre entrar a alguna empresa que confíe en mí."
     },
     "footer": {
         "credits": "Diseñado y Programado por OliverLFJ"
