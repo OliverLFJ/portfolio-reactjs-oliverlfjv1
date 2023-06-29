@@ -32,7 +32,7 @@ const ModalMobile = ({ stateModal, onLanguageChange, onChildData, onChildDataMod
     };
 
     const changeLightMode = () => {
-        setTimeout(hideModal, 950);
+        setTimeout(hideModal, 550);
         if (lightMode === true) {
             setlightMode(false)
         } else {
@@ -45,7 +45,7 @@ const ModalMobile = ({ stateModal, onLanguageChange, onChildData, onChildDataMod
 
 
     const changeButtonLanguage = () => {
-        setTimeout(hideModal, 950);
+        setTimeout(hideModal, 550);
         if (actualLanguage === "es") {
             onLanguageChange("en")
         } else {
@@ -63,8 +63,6 @@ const ModalMobile = ({ stateModal, onLanguageChange, onChildData, onChildDataMod
     }
 
     const handleShowConfigs = () => {
-        console.log("Testing Button")
-        console.log(showConfig)
         if (showConfig === true) {
             setShowConfig(false)
         } else {

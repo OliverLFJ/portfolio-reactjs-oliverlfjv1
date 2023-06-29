@@ -1,0 +1,24 @@
+.container-knowme {
+    height: 100%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    width: 85%;
+}
+
+.knowme-info {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.7rem;
+    margin-top: 1rem;
+}
+
+.myPicture{
+    width: 20%;
+    border-radius: 0.5rem;
+}

@@ -10,7 +10,7 @@
         "contact": "Contact"
     },
     "home": {
-        "greeting": "Hello! I am Oliver",
+        "greeting": "Hi! I am Oliver",
         "initialGreeting": "I'm a front end programmer from Mexico, exactly from a place called Cuernavaca, Morelos.",
         "informationHome": "I'm a software developer with a taste for front end development, although I also have to say that full stack development really catches my attention.",
         "knowMore": "Know me more"
@@ -48,14 +48,17 @@
         "repositorySpring": "CRUD created with Spring Boot, the crud is similar to the hospital CRUD only as a difference JPA persistence was used and as a database manager used by MySQL Workbench.",
         "repositoryPokedex": "Pokedex application made with React JS and the public API PokeApi, CSS and JSX were used to create the application components, to display a DEMO GitHub Pages was used to mount on a server.",
         "repositoryPythonFileTitle": "Python Information Encryption",
-        "repositoryPythonFile":"Script made with Python to encrypt text file information, the user has the option to upload PDF files, DOC or documents containing text for receive an exact copy of the file only that with the encrypted information, the script can also decrypt the information by a password.",
+        "repositoryPythonFile": "Script made with Python to encrypt text file information, the user has the option to upload PDF files, DOC or documents containing text for receive an exact copy of the file only that with the encrypted information, the script can also decrypt the information by a password.",
         "repositoryChatPythonTitle": "Encrypted Python Chat",
-        "repositoryChatPython":"Real-time chat done with Python, the chat encrypts the message at the time of receiving it, also has the option to decrypt the message by means of a password and has options to connect to a port and start a chat from the client."
+        "repositoryChatPython": "Real-time chat done with Python, the chat encrypts the message at the time of receiving it, also has the option to decrypt the message by means of a password and has options to connect to a port and start a chat from the client."
     },
-    "contact":{
-        "getContact":"GET IN TOUCH",
-        "moreInfoContact":"If you are interested in my work, and you have a job opportunity for me, I will be happy to hear the proposal, I await your message.",
-        "greetings":"Hi!"
+    "contact": {
+        "getContact": "GET IN TOUCH",
+        "moreInfoContact": "If you are interested in my work, and you have a job opportunity for me, I will be happy to hear the proposal, I await your message.",
+        "greetings": "Hi!"
+    },
+    "knowme": {
+        "titleKnow": "My name is Jorge Oliver"
     },
     "footer": {
         "credits": "Designed and programmed by OliverLFJ"

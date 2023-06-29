@@ -5,7 +5,7 @@ body {
     justify-content: center;
 }
 
-.outlined-container{
+.outlined-container {
     outline: none;
     -webkit-tap-highlight-color: transparent;
 }
@@ -31,7 +31,7 @@ body {
 
 .cartoon-container:active {
     outline: none;
-  }
+}
 
 .head-container {
     display: flex;
@@ -1334,9 +1334,10 @@ body {
     margin-right: 1rem;
     margin-top: 0.5rem;
     transition: all 0.9s ease-in-out;
+    text-decoration: none;
 }
 
-.show-container-know{
+.show-container-know {
     position: absolute;
     z-index: 1;
     right: 0;
@@ -1344,6 +1345,7 @@ body {
     margin-right: -7rem;
     margin-top: 0.5rem;
     transition: all 0.9s ease-in-out;
+    text-decoration: none;
 }
 
 
@@ -1357,6 +1359,7 @@ body {
     align-items: center;
     border-radius: 0.3em;
     letter-spacing: 0.1rem;
+    text-decoration: none;
 }
 
 .know-me>h4 {
@@ -1370,6 +1373,8 @@ body {
     align-items: center;
     text-align: center;
     font-size: 0.9rem;
+    text-decoration: none;
+    color: #FFFFFF;
 }
 
 .know-me::before {
@@ -1383,4 +1388,8 @@ body {
     position: absolute;
     left: 0;
     margin-left: -1.6rem;
+}
+
+.know-me:hover {
+    transform: scale(0.96);
 }

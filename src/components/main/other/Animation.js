@@ -1,6 +1,7 @@
 import { useState } from "react";
 import "../../../styles/others/Animation.css"
 import { useTranslation } from 'react-i18next';
+import { Link } from "react-router-dom"
 
 const Animation = () => {
     const [classNameSign, setClassNameSign] = useState(true);
@@ -17,11 +18,11 @@ const Animation = () => {
     return (
         <div className="outlined-container">
             <div className="cartoon-container" onMouseEnter={showSign} onMouseLeave={showSign}>
-                <div className={classNameSign ? 'container-know' : 'show-container-know'}>
+                <Link to="/knowme" className={classNameSign ? 'container-know' : 'show-container-know'}>
                     <div className="know-me">
                         <h4>{t('home.knowMore')}</h4>
                     </div>
-                </div>
+                </Link>
                 <div className="head-container">
                     <div className="hair-back"></div>
                     <div className="head">

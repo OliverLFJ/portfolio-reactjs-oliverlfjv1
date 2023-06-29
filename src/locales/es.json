@@ -57,6 +57,9 @@
         "moreInfoContact":"Si te interesó mi trabajo, y tienes alguna oportunidad laboral para mí estaré feliz de escuchar la propuesta, espero tu mensaje.",
         "greetings":"¡Hola!"
     },
+    "knowme":{
+        "titleKnow":"Me llamo Jorge Oliver"
+    },
     "footer": {
         "credits": "Diseñado y Programado por OliverLFJ"
     }

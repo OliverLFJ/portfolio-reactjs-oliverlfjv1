@@ -33,6 +33,7 @@ body {
 
 .app-container {
     height: 100%;
+    min-height: 100vh;
     width: 100vw;
     display: grid;
     grid-template-columns: 1fr;
@@ -41,13 +42,30 @@ body {
     box-sizing: border-box;
 }
 
-
-@media (max-width: 480px) {}
-
-@media (max-width: 767px) {}
-
-@media (min-width: 768px) and (max-width: 1023px) {}
-
-@media (min-width: 1024px) and (max-width: 1279px) {}
-
-@media (min-width: 1280px) {}
+@media (min-width: 480px) {
+    body {
+      /* Estilos para pantallas más grandes (a partir de 480px) */
+      background-color: green;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    body {
+      /* Estilos para pantallas medianas (a partir de 768px) */
+      background-color: orange;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    body {
+      /* Estilos para pantallas grandes (a partir de 1024px) */
+      background-color: yellow;
+    }
+  }
+  
+  @media (min-width: 1280px) {
+    body {
+      /* Estilos para pantallas extra grandes (a partir de 1280px) */
+      background-color: red;
+    }
+  }
